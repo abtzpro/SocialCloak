@@ -8,6 +8,6 @@ SocialCloak scans a user's Facebook and Twitter profiles for PII (personal ident
 SocialCloak is still in development, so please use it with caution. To ensure SocialCloak only deletes what you like, please take a moment to peruse the full code before usage. 
 
 SocialCloak successfull script run REQUIREMENTS: 
-a Twitter API key, a Twitter API secret, a Twitter access token, a Twitter access secret, a Facebook access token, a Facebook user ID, and knowledge of Facebook Graph usage.
+a Twitter API key, a Twitter API secret, a Twitter access token, a Twitter access secret, a Facebook access token, a Facebook user ID, and knowledge of Facebook Graph API usage.
 
 Social Cloak is developed by @abtzpro @AdamR @HelloSecurity 
