@@ -1,7 +1,10 @@
+# SocialCloak The Ultimate Facebook | Twitter PII scrubber
+# Minimize your digital footprint and cloak your social medias with SocialCloak today!
+# Created by @abtzpro @AdamR @HelloSecurity
+
 import facebook
 import tweepy
 import re
-
 
 # Your access token from Facebook
 FACEBOOK_ACCESS_TOKEN = '<your_access_token_here>'
